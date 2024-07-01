@@ -1,9 +1,12 @@
 <h1>ML Gita</h1>
 
 
+
+
+
 ## Introduction
 
-<h5>The field of data science is vast already and rapidly evolving. This repository is created with the aim of bringing together all the essential knowledge, algorithms, and best practices under one roof. The goal is to provide a structured and easy-to-navigate collection of resources that will help data scientists at all levels to find the information they need quickly and efficiently.</h5>
+The field of data science is vast already and rapidly evolving. This repository is created with the aim of bringing together all the essential knowledge, algorithms, and best practices under one roof. The goal is to provide a structured and easy-to-navigate collection of resources that will help data scientists at all levels to find the information they need quickly and efficiently.
 
 
 
@@ -13,7 +16,7 @@
 To get started, simply clone the repository to your local machine:
 
 ```sh
-git clone https://github.com/yourusername/data-science-knowledge-repo.git
+git clone https://github.com/shruti9619/ML_Gita.git
 ```
 
 Once cloned, you can explore the different sections and resources available. Each section contains detailed explanations, code snippets, and references to further reading materials.
